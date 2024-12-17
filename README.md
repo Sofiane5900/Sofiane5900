@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sofiane and I'm a Front-end Developper, from France</p>
+<p align="left">My name is Sofiane and I'm a front-end developper, from France</p>
 
 ###
 
