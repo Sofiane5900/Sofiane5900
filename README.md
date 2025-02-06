@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sofiane and I'm a front-end developper, from France</p>
+<p align="left">My name is Sofiane and I'm a developper, from France</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C#/.NET<br>🎯 Goals: Becoming better every day :D</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning C#/.NET<br>🎯 Goals: Becoming better every day :D</p>
 
 ###
 
