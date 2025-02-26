@@ -17,6 +17,12 @@
 
 ---
 
+### ✨ Try my CLI command!
+
+```sh
+npx sofiane
+```
+
 ## 🛠️ Languages & Tools
 
 <div align="left">
