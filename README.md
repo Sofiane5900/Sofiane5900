@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  I'm Sofiane, a developer who likes creating, experimenting, and figuring things out.  
+  I'm Sofiane, a developer from France who likes creating, experimenting, and figuring things out.  
   Always curious and looking for ways to improve !
 </p>
 
