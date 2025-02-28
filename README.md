@@ -44,7 +44,7 @@ namespace AboutMe
             { "Backend", new List<string> { ".NET Core", "ASP.NET" } }
         };
         
-        public string CurrentGoal { get; } = "Working toward becoming a fullstack developer";
+        public string CurrentGoal { get; } = "Working toward becoming a better developer";
         
         public string FunFact { get; } = "Creating bugs since 2024 (and fixing them too 😄)";
         
@@ -102,9 +102,9 @@ npx sofiane
 ## 🌱 Current Projects
 
 - Working on improving my C# and .NET skills
-- Learning the fundamentals of web development with React
+- Learning the fundamentals of web development with Javascript
 - Exploring different aspects of programming
-- Building small projects to enhance my portfolio
+- Building small ideas i have for fun
 
 <hr>
 
