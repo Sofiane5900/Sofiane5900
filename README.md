@@ -1,85 +1,121 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">👋 Hi there, I'm Sofiane</h1>
 
 <p align="center">
-  I'm Sofiane, a developer from France who likes creating, experimenting, and figuring things out.  
-  Always curious and looking for ways to improve!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4CF731&center=true&vCenter=true&width=440&lines=Passionate+about+Programming;Always+learning;Problem+solver;Innovative+and+creative" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  A developer from France who loves creating, experimenting, and solving problems.<br>
+  Always curious and looking for ways to improve.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-sofiane.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Sofiane5900"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://discord.com/users/sofiane590_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+<hr>
 
 ## 🚀 About Me
 
-- 🔥 Creating bugs since 2024  
-- 💻 I enjoy working with **C# and .NET**  
-- 📚 Always learning and exploring new tech  
-- 🎯 Goal: Keep improving and building better projects  
-- 🤝 Open to collaboration on interesting projects  
+```csharp
+using System;
+using System.Collections.Generic;
 
----
+namespace AboutMe
+{
+    public class Sofiane
+    {
+        public string Name { get; } = "Sofiane";
+        public string Location { get; } = "France";
+        public int CodingSince { get; } = 2024;
+        
+        public List<string> Languages { get; } = new List<string> 
+        { 
+            "C#", 
+            "JavaScript", 
+            "TypeScript" 
+        };
+        
+        public Dictionary<string, List<string>> Skills { get; } = new Dictionary<string, List<string>>
+        {
+            { "Frontend", new List<string> { "React", "Next.js" } },
+            { "Backend", new List<string> { ".NET Core", "ASP.NET" } }
+        };
+        
+        public string CurrentGoal { get; } = "Working toward becoming a fullstack developer";
+        
+        public string FunFact { get; } = "Creating bugs since 2024 (and fixing them too 😄)";
+        
+        public void SayHi()
+        {
+            Console.WriteLine("Thanks for visiting my GitHub profile!");
+        }
+    }
+}
+```
 
-### ✨ Try my CLI command!
+<hr>
 
-```sh
+## 💻 Try my CLI command!
+
+```bash
 npx sofiane
 ```
 
+<hr>
+
 ## 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,git" />
+</p>
 
----
+<hr>
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofiane5900&show_icons=true&theme=vue-dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane5900&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofiane5900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=4CF731&title_color=4CF731" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane5900&layout=compact&theme=tokyonight&hide_border=true&title_color=4CF731" height="175" alt="Most Used Languages" />
 </div>
 
----
-
-## 🔥 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sofiane5900&theme=github-dark" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sofiane5900&theme=tokyonight&hide_border=true&ring=4CF731&fire=4CF731&currStreakLabel=4CF731" alt="GitHub Streak" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofiane5900&theme=vue-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </p>
 
----
+<hr>
 
-## 🔗 Connect with Me  
+## 🔥 GitHub Activity
 
-<p align="left">
-  <a href="https://portfolio-sofiane.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sofiane5900" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/sofiane590_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sofiane5900&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
+<hr>
 
-🏋️ **Fun Fact:** When I’m not coding, I enjoy sports and reading.  
+## 🌱 Current Projects
 
----
+- Working on improving my C# and .NET skills
+- Learning the fundamentals of web development with React
+- Exploring different aspects of programming
+- Building small projects to enhance my portfolio
 
-### ✨ Thanks for stopping by!
+<hr>
+
+## 🏆 Fun Fact
+
+When I'm not coding, I enjoy sports and reading.
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sofiane5900&style=flat-square&color=4CF731" alt="Profile views" />
+</p>
+
+<h3 align="center">✨ Thanks for stopping by! ✨</h3>
