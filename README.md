@@ -102,7 +102,7 @@ npx sofiane
 ## 🌱 Current Projects
 
 - Working on improving my C# and .NET skills
-- Learning the fundamentals of web development with Javascript
+- Learning the fundamentals of web development with JavaScript and TypeScript
 - Exploring different aspects of programming
 - Building small ideas i have for fun
 
