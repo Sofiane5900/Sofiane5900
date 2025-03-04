@@ -81,10 +81,6 @@ npx sofiane
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane5900&layout=compact&theme=tokyonight&hide_border=true&title_color=4CF731" height="175" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sofiane5900&theme=tokyonight&hide_border=true&ring=4CF731&fire=4CF731&currStreakLabel=4CF731" alt="GitHub Streak" />
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </p>
