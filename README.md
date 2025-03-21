@@ -95,7 +95,7 @@ npx sofiane
 
 <hr>
 
-## 🌱 Current Projects
+## 🎯 Current Projects
 
 - Working on improving my C# and .NET skills
 - Learning the fundamentals of web development with JavaScript and TypeScript
