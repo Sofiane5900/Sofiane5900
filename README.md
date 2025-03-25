@@ -66,10 +66,10 @@ npx sofiane
 
 <hr>
 
-## 🛠️ Languages & Tools
+## 🛠️ Currently Using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,git" />
+  <img src="https://skillicons.dev/icons?i=cs,c,dotnet,ts,neovim,git" />
 </p>
 
 <hr>
@@ -95,12 +95,12 @@ npx sofiane
 
 <hr>
 
-## 🎯 Current Projects
+## 🎯 Current Goals
 
-- Working on improving my C# and .NET skills
-- Learning the fundamentals of web development with JavaScript and TypeScript
-- Exploring different aspects of programming
-- Building small ideas i have for fun
+- Improving my C# and .NET skills  
+- Learning the fundamentals of system programming with C  
+- Exploring how computers work under the hood  
+- Building small projects to apply what I learn  
 
 <hr>
 
