@@ -33,15 +33,9 @@ namespace AboutMe
         
         public List<string> Languages { get; } = new List<string> 
         { 
-            "C#", 
-            "JavaScript", 
+            "C#",
+            "C", 
             "TypeScript" 
-        };
-        
-        public Dictionary<string, List<string>> Skills { get; } = new Dictionary<string, List<string>>
-        {
-            { "Frontend", new List<string> { "React", "Next.js" } },
-            { "Backend", new List<string> { ".NET Core", "ASP.NET" } }
         };
         
         public string CurrentGoal { get; } = "Working toward becoming a better developer";
