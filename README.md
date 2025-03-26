@@ -71,8 +71,8 @@ npx sofiane
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofiane5900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=4CF731&title_color=4CF731" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane5900&layout=compact&theme=tokyonight&hide_border=true&title_color=4CF731" height="175" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofiane5900&show_icons=true&theme=dracula&hide_border=true&count_private=true&ring_color=4CF731&title_color=4CF731" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane5900&layout=compact&theme=dracula&hide_border=true&title_color=4CF731" height="175" alt="Most Used Languages" />
 </div>
 
 <p align="center">
