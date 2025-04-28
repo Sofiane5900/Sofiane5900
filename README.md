@@ -63,7 +63,7 @@ npx sofiane
 ## 🛠️ Currently Using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,dotnet,ts,neovim,git" />
+  <img src="https://skillicons.dev/icons?i=cs,c,dotnet,ts,nestjs,postgres,neovim,git" />
 </p>
 
 <hr>
