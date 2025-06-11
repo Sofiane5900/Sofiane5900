@@ -76,7 +76,7 @@ npx sofiane
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=nord&no-frame=true&column=6&title=MultiLanguage,Commits,Reviews,Repositories,PullRequest" alt="GitHub Trophies" />
 </p>
 
 <hr>
