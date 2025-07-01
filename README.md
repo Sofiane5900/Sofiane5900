@@ -104,8 +104,5 @@ When I'm not coding, I enjoy sports and reading.
 
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sofiane5900&style=flat-square&color=4CF731" alt="Profile views" />
-</p>
 
 <h3 align="center">✨ Thanks for stopping by! ✨</h3>
