@@ -63,7 +63,7 @@ npx sofiane
 ## 🛠️ Currently Using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,c,dotnet,ts,nestjs,postgres,neovim,git" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,neovim" />
 </p>
 
 <hr>
@@ -78,31 +78,3 @@ npx sofiane
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=nord&no-frame=true&column=6&title=MultiLanguage,Commits,Reviews,Repositories,PullRequest" alt="GitHub Trophies" />
 </p>
-
-<hr>
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sofiane5900&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<hr>
-
-## 🎯 Current Goals
-
-- Improving my C# and .NET skills  
-- Learning the fundamentals of system programming with C  
-- Exploring how computers work under the hood  
-- Building small projects to apply what I learn  
-
-<hr>
-
-## 🏆 Fun Fact
-
-When I'm not coding, I enjoy sports and reading.
-
-<hr>
-
-
-<h3 align="center">✨ Thanks for stopping by! ✨</h3>
