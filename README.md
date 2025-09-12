@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sofiane-ig.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/Sofiane5900"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://discord.com/users/sofiane590_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
@@ -34,8 +33,7 @@ namespace AboutMe
         public List<string> Languages { get; } = new List<string> 
         { 
             "C#",
-            "C", 
-            "TypeScript" 
+            "C/C++", 
         };
         
         public string CurrentGoal { get; } = "Working toward becoming a better developer";
@@ -63,7 +61,7 @@ npx sofiane
 ## 🛠️ Currently Using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,neovim" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,neovim" />
 </p>
 
 <hr>
