@@ -1,78 +1,88 @@
-<h1 align="center">👋 Hi there, I'm Sofiane</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5C6E85&center=true&vCenter=true&width=440&lines=Passionate+about+Programming;Always+learning;Problem+solver;Innovative+and+creative" alt="About me" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:2d3561&height=180&section=header&text=Sofiane&fontSize=80&fontColor=6e9ef5&animation=fadeIn&fontAlignY=45)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6E9EF5&center=true&vCenter=true&width=500&lines=Passionate+about+Programming+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%93%9A;Turning+ideas+into+code+%E2%9C%A8;Creating+bugs+since+2024+%F0%9F%90%9B" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <a href="https://github.com/Sofiane5900">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=6e9ef5&labelColor=0d1117" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/sofiane590_">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=6e9ef5&labelColor=0d1117" alt="Discord"/>
+  </a>
 </p>
 
-<p align="center">
-  A developer from France who loves creating, experimenting, and solving problems.<br>
-  Always curious and looking for ways to improve.
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Sofiane5900"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://discord.com/users/sofiane590_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
+---
 
-<hr>
-
-## 🚀 About Me
+## `~/about-me` &nbsp; 🚀
 
 ```csharp
-using System;
 using System.Collections.Generic;
 
 namespace AboutMe
 {
     public class Sofiane
     {
-        public string Name { get; } = "Sofiane";
-        public string Location { get; } = "France";
-        public int CodingSince { get; } = 2024;
-        
-        public List<string> Languages { get; } = new List<string> 
-        { 
-            "C#",
-            "C/C++", 
-        };
-        
-        public string CurrentGoal { get; } = "Working toward becoming a better developer";
-        
-        public string FunFact { get; } = "Creating bugs since 2024 (and fixing them too 😄)";
-        
-        public void SayHi()
+        public string Name        { get; } = "Sofiane";
+        public string Location    { get; } = "🇫🇷 France";
+        public int    CodingSince { get; } = 2024;
+
+        public List<string> Languages { get; } = new()
         {
-            Console.WriteLine("Thanks for visiting my GitHub profile!");
-        }
+            "C#", "C", "TypeScript"
+        };
+
+        public List<string> CurrentlyLearning { get; } = new()
+        {
+            "Embedded Systems", "Arduino", "Low-level C"
+        };
+
+        public string Goal    { get; } = "Becoming a better developer, every single day";
+        public string FunFact { get; } = "Creating bugs since 2024 — and fixing most of them 😄";
     }
 }
 ```
 
-<hr>
+---
 
-## 💻 Try my CLI command!
+## `~/stack` &nbsp; 🛠️
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cs,typescript,dotnet,nestjs,arduino,git,vscode&theme=dark" />
+
+</div>
+
+---
+
+## `~/try-me` &nbsp; 💻
 
 ```bash
 npx sofiane
 ```
 
-<hr>
+---
 
-## 🛠️ Currently Using
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,neovim" />
-</p>
-
-<hr>
-
-## 📈 GitHub Stats
+## `~/stats` &nbsp; 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofiane5900&show_icons=true&theme=dracula&hide_border=true&count_private=true&ring_color=4CF731&title_color=4CF731" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiane5900&layout=compact&theme=dracula&hide_border=true&title_color=4CF731" height="175" alt="Most Used Languages" />
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofiane5900&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6e9ef5&icon_color=6e9ef5&text_color=8b9fc7" />
+&nbsp;
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sofiane5900&layout=compact&hide_border=true&bg_color=0d1117&title_color=6e9ef5&text_color=8b9fc7" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=tokyonight&no-frame=true&column=5&margin-w=8&title=MultiLanguage,Commits,Repositories,PullRequest,Reviews" />
+
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sofiane5900&theme=nord&no-frame=true&column=6&title=MultiLanguage,Commits,Reviews,Repositories,PullRequest" alt="GitHub Trophies" />
-</p>
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d3561,50:1a1f2e,100:0d1117&height=100&section=footer)
