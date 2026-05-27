@@ -13,7 +13,7 @@
 ```csharp
 namespace AboutMe
 {
-    public class Sofiane
+    public class Person
     {
         public string Name        { get; } = "Sofiane";
         public string Location    { get; } = "France";
@@ -23,7 +23,7 @@ namespace AboutMe
 
         public List<string> CurrentlyLearning { get; } = new()
         {
-            "Embedded Systems", "Arduino", "Low-level C"
+            "Embedded Systems", "Low-level C"
         };
 
         public string Goal { get; } = "Becoming a better developer, every single day";
