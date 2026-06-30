@@ -20,7 +20,7 @@ namespace AboutMe
 
         public List<string> CurrentlyLearning { get; } = new()
         {
-            "Embedded Systems", "Low-level C"
+            "Embedded Systems", "Low-level Programming Concepts"
         };
 
         public string Goal { get; } = "Becoming a better developer, every single day";
